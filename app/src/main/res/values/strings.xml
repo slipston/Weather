@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather">Weather</string>
+    <string name="delete_all">Delete All</string>
+    <string name="add_city">Add City</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="delete">Delete</string>
+    <string name="exception">The Activity is not implementing the TodoHandler interface.</string>
+    <string name="dialog">City Dialog</string>
+    <string name="metric">metric</string>
+    <string name="appid">9986ba90fe48fb5d20b9baf4285895d0</string>
+</resources>
